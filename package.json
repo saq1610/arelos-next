@@ -1,0 +1,27 @@
+{
+  "name": "arelos-website",
+  "version": "1.0.0",
+  "description": "The official Website for the Arelos Project",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arelos/arelos.github.io.git"
+  },
+  "author": "Arelos Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arelos/arelos.github.io/issues"
+  },
+  "homepage": "https://github.com/Arelos/arelos.github.io#readme",
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0"
+  }
+}
